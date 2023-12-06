@@ -2,6 +2,9 @@
 
 This python script retrives NBA players statistics.
 
+If you're not sure on how to run it, feel free to watch the youtube tutorial on it:
+https://youtu.be/J2fIevD2whk
+
 Guide:
 > 1. Open the terminal from where this script is placed
 > 
