@@ -1,8 +1,8 @@
 # NBA_Player_Stats
 
-This python script retrives NBA players statistics.
+This python script retrieves NBA player's statistics.
 
-## If you're not sure on how to run it, feel free to watch the youtube tutorial on it:
+## If you're not sure how to run it, feel free to watch the YouTube tutorial on it:
 
 https://youtu.be/J2fIevD2whk
 
